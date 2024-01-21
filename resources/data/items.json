@@ -1,0 +1,32 @@
+[
+  {
+    "imageSrc": "./resources/images/spaghetti-recipe.jpeg",
+    "title": "Spaghetti",
+    "description": "Italian's favourite recipe"
+  },
+  {
+    "imageSrc": "./resources/images/pizza-recipe.jpg",
+    "title": "Pizza",
+    "description": "Italian's best recipe"
+  },
+  {
+    "imageSrc": "./resources/images/burger-recipe.webp",
+    "title": "Burger",
+    "description": "American's best recipe"
+  },
+  {
+    "imageSrc": "./resources/images/french-fries-recipe.jpg",
+    "title": "French Fries",
+    "description": "American's favourite recipe"
+  },
+  {
+    "imageSrc": "./resources/images/nasi-lemak-recipe.webp",
+    "title": "Nasi Lemak",
+    "description": "Asian's favourite recipe"
+  },
+  {
+    "imageSrc": "./resources/images/mont-hin-gar-recipe.webp",
+    "title": "Mont Hin Gar",
+    "description": "Myanmar's favourite recipe"
+  }
+]

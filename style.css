@@ -1,0 +1,24 @@
+/* Custom styles for the contact section */
+#contact-cta {
+  position: relative;
+  overflow: hidden;
+}
+
+.bg-overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8); /* Adjust the grey color and opacity */
+}
+
+/* Additional styling for the card */
+#contact-cta > .card {
+  background-color: rgba(
+    255,
+    255,
+    255,
+    1
+  ); /* Adjust the card background color and opacity */
+}
